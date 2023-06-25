@@ -2,7 +2,7 @@
 
 # [Interactive Fireworks using Canvas](https://fireworks-canvas.vercel.app/)
 
-![](https://raw.githubusercontent.com/itsme-Subid/fireworks-canvas/master/preview.webp)
+![](https://raw.githubusercontent.com/itsme-Subid/fireworks-canvas/main/preview.webp)
 ![](https://img.shields.io/github/languages/top/itsme-Subid/fireworks-canvas?style=for-the-badge)
 ![](https://img.shields.io/github/languages/count/itsme-Subid/fireworks-canvas?style=for-the-badge)
 ![](https://img.shields.io/github/languages/code-size/itsme-Subid/fireworks-canvas?style=for-the-badge)
